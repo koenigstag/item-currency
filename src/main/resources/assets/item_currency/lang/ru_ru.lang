@@ -1,0 +1,11 @@
+﻿# Items
+item.currency1.name=Монета 1
+item.currency10.name=Монета 10
+item.currency100.name=Монета 100
+
+item.sawdust.name=Опилки
+item.metal_pressform.name=Металлическая пресс-форма
+item.cellulose_fiber.name=Целлюлозное волокно
+item.creosote_sawdust.name=Пропитанные креозотом опилки
+item.creosote_fabric.name=Пропитаная креозотом ткань
+item.creosote_plank.name=Пропитаная креозотом доска

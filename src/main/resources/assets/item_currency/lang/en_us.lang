@@ -1,0 +1,11 @@
+﻿# Items
+item.currency1.name=Coin 1
+item.currency10.name=Coin 10
+item.currency100.name=Coin 100
+
+item.sawdust.name=Sawdust
+item.metal_pressform.name=Metal pressform
+item.cellulose_fiber.name=Cellulose fiber
+item.creosote_sawdust.name=Creosote sawdust
+item.creosote_fabric.name=Creosote fabric
+item.creosote_plank.name=Creosote plank
