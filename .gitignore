@@ -26,7 +26,6 @@ forge*changelog.txt
 .gradle/
 .idea/
 build/
-gradle/
 run/
 setup.bat
 build.bat
